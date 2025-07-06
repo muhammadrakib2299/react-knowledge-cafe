@@ -27,6 +27,7 @@ const Blog = ({blog}) => {
                 hashtags.map((hash, idx) => <span key={idx}><a href=""> #{hash}</a></span>)
             }
         </p>
+        <button className='my-4 cursor-pointerp-4'>Mark as read</button>
     </div>
   )
 }
