@@ -4,5 +4,9 @@
 /* Google fonts link */
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
 body{
-      font-family: "Exo", sans-serif;
+
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-family: "Exo", sans-serif;
 }
