@@ -15,7 +15,7 @@ const Blogs = () => {
 
   return (
     <div>
-        <h1>Toltal Blogs: {blogs.length}</h1>
+        {/* <h1>Toltal Blogs: {blogs.length}</h1> */}
     </div>
   )
 }
