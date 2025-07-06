@@ -1,0 +1,112 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "cover_image": "https://source.unsplash.com/random/800x600?technology",
+    "title": "The Rise of Edge Computing in 2025",
+    "description": "Discover how edge computing is transforming data processing in real-time environments.",
+    "author": "Ella James",
+    "author_image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "posted_date": "2025-07-01",
+    "reading_time": 6,
+    "hashtags": ["#EdgeComputing", "#Cloud", "#TechTrends"]
+  },
+  {
+    "id": "e5f6g7h8",
+    "cover_image": "https://source.unsplash.com/random/800x600?ai",
+    "title": "How AI is Shaping the Future of Content Creation",
+    "description": "AI tools are rapidly changing the way we write, design, and produce content.",
+    "author": "Noah Anderson",
+    "author_image": "https://randomuser.me/api/portraits/men/27.jpg",
+    "posted_date": "2025-07-02",
+    "reading_time": 5,
+    "hashtags": ["#AI", "#ContentCreation", "#Automation"]
+  },
+  {
+    "id": "i9j0k1l2",
+    "cover_image": "https://source.unsplash.com/random/800x600?design",
+    "title": "Top 10 UX Design Principles Every Developer Should Know",
+    "description": "Enhance your web or mobile app with these essential UX guidelines.",
+    "author": "Grace Lee",
+    "author_image": "https://randomuser.me/api/portraits/women/30.jpg",
+    "posted_date": "2025-07-03",
+    "reading_time": 7,
+    "hashtags": ["#UXDesign", "#WebDesign", "#UserExperience"]
+  },
+  {
+    "id": "m3n4o5p6",
+    "cover_image": "https://source.unsplash.com/random/800x600?cybersecurity",
+    "title": "5 Cybersecurity Mistakes Developers Still Make",
+    "description": "Learn about the most common and critical security errors in software development.",
+    "author": "Liam Turner",
+    "author_image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "posted_date": "2025-07-03",
+    "reading_time": 6,
+    "hashtags": ["#CyberSecurity", "#WebSecurity", "#DevTips"]
+  },
+  {
+    "id": "q7r8s9t0",
+    "cover_image": "https://source.unsplash.com/random/800x600?startup",
+    "title": "Bootstrap Your Startup: Zero to MVP in 30 Days",
+    "description": "A practical guide for solo founders and developers building their first MVP.",
+    "author": "Maya Patel",
+    "author_image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "posted_date": "2025-07-04",
+    "reading_time": 8,
+    "hashtags": ["#Startup", "#MVP", "#Entrepreneurship"]
+  },
+  {
+    "id": "u1v2w3x4",
+    "cover_image": "https://source.unsplash.com/random/800x600?python",
+    "title": "Why Python is Still the King of Programming Languages",
+    "description": "From web development to AI, here's why Python dominates in 2025.",
+    "author": "Jackson Miller",
+    "author_image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "posted_date": "2025-07-04",
+    "reading_time": 5,
+    "hashtags": ["#Python", "#Programming", "#Tech"]
+  },
+  {
+    "id": "y5z6a7b8",
+    "cover_image": "https://source.unsplash.com/random/800x600?javascript",
+    "title": "10 ES6 JavaScript Tricks That Will Blow Your Mind",
+    "description": "Master modern JavaScript syntax and supercharge your codebase.",
+    "author": "Olivia Chen",
+    "author_image": "https://randomuser.me/api/portraits/women/26.jpg",
+    "posted_date": "2025-07-05",
+    "reading_time": 9,
+    "hashtags": ["#JavaScript", "#ES6", "#Frontend"]
+  },
+  {
+    "id": "c9d0e1f2",
+    "cover_image": "https://source.unsplash.com/random/800x600?mobile",
+    "title": "Mobile App Design: 2025 Trends You Need to Follow",
+    "description": "Keep your mobile apps modern and user-friendly with these latest trends.",
+    "author": "Mason Rivera",
+    "author_image": "https://randomuser.me/api/portraits/men/40.jpg",
+    "posted_date": "2025-07-05",
+    "reading_time": 6,
+    "hashtags": ["#MobileApps", "#UIUX", "#DesignTrends"]
+  },
+  {
+    "id": "g3h4i5j6",
+    "cover_image": "https://source.unsplash.com/random/800x600?coding",
+    "title": "Debugging Like a Pro: Strategies for Smarter Coding",
+    "description": "Cut down your bug-hunting time with these expert debugging techniques.",
+    "author": "Isabella Gomez",
+    "author_image": "https://randomuser.me/api/portraits/women/36.jpg",
+    "posted_date": "2025-07-06",
+    "reading_time": 7,
+    "hashtags": ["#Debugging", "#CleanCode", "#ProgrammingTips"]
+  },
+  {
+    "id": "k7l8m9n0",
+    "cover_image": "https://source.unsplash.com/random/800x600?cloud",
+    "title": "A Beginner’s Guide to Cloud Computing Services",
+    "description": "Understand AWS, Azure, and GCP to choose the right cloud platform for your project.",
+    "author": "Elijah Brooks",
+    "author_image": "https://randomuser.me/api/portraits/men/41.jpg",
+    "posted_date": "2025-07-06",
+    "reading_time": 10,
+    "hashtags": ["#CloudComputing", "#AWS", "#Azure", "#GCP"]
+  }
+]
