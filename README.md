@@ -6,7 +6,7 @@ A dynamic blog platform where users can explore technical articles, bookmark fav
 
 ## 🚀 Live Demo
 
-[http://functional-kite.surge.sh/]
+http://functional-kite.surge.sh/
 
 ---
 
