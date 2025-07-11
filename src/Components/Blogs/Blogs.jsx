@@ -29,4 +29,5 @@ const Blogs = ({handleAddBookmark}) => {
   )
 }
 
+
 export default Blogs

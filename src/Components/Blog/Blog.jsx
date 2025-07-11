@@ -2,6 +2,7 @@ import React from 'react'
 import './Blog.css';
 import { FaBookmark } from "react-icons/fa";
 
+
 const Blog = ({blog, handleAddBookmark}) => {
     
     const {title,cover,author,author_img, reading_time, posted_date, hashtags} = blog;
@@ -21,7 +22,7 @@ const Blog = ({blog, handleAddBookmark}) => {
             <div className='flex items-start'>
                 <span>{reading_time} min read</span>
                 <button 
-                onClick={handleAddBookmark}
+                onClick={() => handleAddBookmark(blog)}
                 className='ml-2 text-2xl cursor-pointer'
                 > <FaBookmark /></button>
 
@@ -37,5 +38,6 @@ const Blog = ({blog, handleAddBookmark}) => {
     </div>
   )
 }
+
 
 export default Blog
