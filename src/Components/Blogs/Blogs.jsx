@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './Blogs.css';
 import Blog from '../Blog/Blog';
 
-const Blogs = () => {
+const Blogs = ({handleAddBookmark}) => {
 
     // stor the loading data using useState
     const [blogs, setBlogs] = useState([]); 
@@ -16,10 +16,13 @@ const Blogs = () => {
 
   return (
     <div className='md: w-2/3'>
-        <h1 className='text-4xl'>Total blogs: {blogs.length}</h1>
-        <div className='py-5'>
+        <div>
             {
-                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+                blogs.map(blog => <Blog 
+                    key={blog.id} 
+                    blog={blog}
+                    handleAddBookmark={handleAddBookmark}
+                ></Blog>)
             }
         </div>
     </div>
