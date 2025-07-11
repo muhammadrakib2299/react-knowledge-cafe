@@ -6,7 +6,7 @@ A dynamic blog platform where users can explore technical articles, bookmark fav
 
 ## 🚀 Live Demo
 
-[http://functional-kite.surge.sh/](#) <!-- Replace with your deployed link -->
+[http://functional-kite.surge.sh/]
 
 ---
 
@@ -37,6 +37,6 @@ A dynamic blog platform where users can explore technical articles, bookmark fav
 
 ## 📸 Screenshot
 
-![Knowledge Cafe Screenshot](./overview.png) <!-- Replace with the correct image path -->
+![Knowledge Cafe Screenshot](./overview.png)
 
 ---
