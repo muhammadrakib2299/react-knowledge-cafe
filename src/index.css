@@ -1,8 +1,9 @@
+/* Google fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* import tailwid CSS */
 @import "tailwindcss";
 
-/* Google fonts link */
-@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
 body{
 
     padding: 5px 20px;
