@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './Blogs.css';
 import Blog from '../Blog/Blog';
 
-const Blogs = ({handleAddBookmark}) => {
+const Blogs = ({handleAddBookmark, handleMarkAsRead}) => {
 
     // stor the loading data using useState
     const [blogs, setBlogs] = useState([]); 
@@ -22,6 +22,7 @@ const Blogs = ({handleAddBookmark}) => {
                     key={blog.id} 
                     blog={blog}
                     handleAddBookmark={handleAddBookmark}
+                    handleMarkAsRead={handleMarkAsRead}
                 ></Blog>)
             }
         </div>

@@ -3,7 +3,7 @@ import './Blog.css';
 import { FaBookmark } from "react-icons/fa";
 
 
-const Blog = ({blog, handleAddBookmark}) => {
+const Blog = ({blog, handleAddBookmark, handleMarkAsRead}) => {
     
     const {title,cover,author,author_img, reading_time, posted_date, hashtags} = blog;
 
@@ -34,7 +34,7 @@ const Blog = ({blog, handleAddBookmark}) => {
                 hashtags.map((hash, idx) => <span key={idx}><a href=""> #{hash}</a></span>)
             }
         </p>
-        <button className='my-4 cursor-pointerp-4'>Mark as read</button>
+        <button onClick={() => handleMarkAsRead(blog.reading_time)} className='my-4 cursor-pointerp-4 underline text-red-400 cursor-pointer'>Mark as read</button>
     </div>
   )
 }
