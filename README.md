@@ -10,12 +10,6 @@ A dynamic blog platform where users can explore technical articles, bookmark fav
 
 ---
 
-## 📸 Screenshot
-
-![Knowledge Cafe Screenshot](./overview.png) <!-- Replace with the correct image path -->
-
----
-
 ## 🧠 Features
 
 - 🔄 Dynamic data loading from API
@@ -38,5 +32,11 @@ A dynamic blog platform where users can explore technical articles, bookmark fav
 - **Tailwind CSS** – Utility-first CSS framework
 - **JavaScript (ES6)** – For logic and interactivity
 - **Props & State Management** – To handle dynamic data flow
+
+---
+
+## 📸 Screenshot
+
+![Knowledge Cafe Screenshot](./overview.png) <!-- Replace with the correct image path -->
 
 ---
